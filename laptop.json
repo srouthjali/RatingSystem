@@ -1,0 +1,23 @@
+[
+ {
+  "lapid":1,
+  "name":"Laptop 1",
+  "description":"Laptop 1 with 8 GB RAM",
+  "rating" : 4,
+  "image" :"laptop1.jpg"
+ },
+{
+  "lapid":2,
+  "name":"Laptop 1",
+  "description":"Laptop 2 with 8 GB RAM",
+  "rating" : 4,
+  "image" :"laptop2.jpg"
+ },
+ {
+  "lapid":3,
+  "name":"Laptop 1",
+  "description":"Laptop 3 with 8 GB RAM",
+  "rating" : 4,
+  "image" :"laptop3.jpg"
+ }
+]
